@@ -1,12 +1,14 @@
-## Hi there. I'm Benji! 👋
-![](https://komarev.com/ghpvc/?username=BritishBenji&color=blueviolet)
+## Hi there. I'm Benji! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
-<div style="float: left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BritishBenji&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/benjamin-campbell-wilson-115a67177/">
+  <img align="left" alt="BritishBenji's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://twitter.com/BritishBenji">
+  <img align="left" alt="BritishBenji | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+ 
+![](https://visitor-badge.glitch.me/badge?page_id=britishbenji)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=250301ben&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=250301ben&redirect=true)
   
