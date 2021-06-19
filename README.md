@@ -8,9 +8,8 @@
 <div style="float: left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BritishBenji&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=250301ben&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=250301ben&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=250301ben&redirect=true)
+  
 </div>
 <div style="text-align: left">
 <h3> Who am I? What do I do?</h3>
