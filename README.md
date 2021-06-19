@@ -1,11 +1,14 @@
 ## Hi there. I'm Benji! 👋
-
-<div style="text-align: left">
-
 ![](https://komarev.com/ghpvc/?username=BritishBenji&color=blueviolet)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BritishBenji&show_icons=true)
-](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+<div style="text-align: left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BritishBenji&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=250301ben&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 </div>
