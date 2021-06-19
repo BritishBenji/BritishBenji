@@ -9,7 +9,7 @@
 </a>
 
   
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qBq2WSsgvv)
+[![Discord](https://img.shields.io/discord/853638415039463464.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qBq2WSsgvv)
 ![](https://visitor-badge.glitch.me/badge?page_id=britishbenji)
 
 I'm mainly an amatuer python programmer, mainly working with [discord.py](https://github.com/Rapptz/discord.py) (which you'll find most, if not all, of my projects written with.)
