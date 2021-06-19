@@ -11,7 +11,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=250301ben&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=250301ben&redirect=true)
   
 </div>
-<div style="text-align: left">
+<div style="float: right">
 <h3> Who am I? What do I do?</h3>
 
 I'm mainly an amatuer python programmer, mainly working with [discord.py](https://github.com/Rapptz/discord.py) (which you'll find most, if not all, of my projects written with.)
