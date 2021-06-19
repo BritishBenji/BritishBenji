@@ -28,7 +28,7 @@ I also like to dabble with things like HTML, JavaScript, and CSS in my free time
 
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=britishbenji&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="BritishBenji" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=britishbenji&theme=radical" alt="BritishBenji" /></p>
 <p align="right">
 
 ### Social Media - Find me here!
