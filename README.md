@@ -16,9 +16,11 @@
 <h3> Who am I? What do I do?</h3>
 
 I'm mainly an amatuer python programmer, mainly working with [discord.py](https://github.com/Rapptz/discord.py) (which you'll find most, if not all, of my projects written with.)
+
 I also like to dabble with things like HTML, JavaScript, and CSS in my free time.  
 
-If you have any questions about any of my repositories, or would like to chat about bot development as a newbie to the scene, feel free to contact me on my [Discord Server](https://discord.gg/qBq2WSsgvv)
+If you have any questions about any of my repositories, or would like to chat about bot development as a newbie to the scene, 
+feel free to contact me on my [Discord Server](https://discord.gg/qBq2WSsgvv)
 
 </div>
 
