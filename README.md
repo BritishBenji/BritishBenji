@@ -22,7 +22,7 @@ I also like to dabble with things like HTML, JavaScript, and CSS in my free time
   <br /><br /><br /><br /><br /><br />
 <div align=center>
   <h3> Social Media - Find me here! </h3>
-<img alt="Twitch" src="https://img.shields.io/badge/BritishBenji-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/><img alt="Twitter" src="https://img.shields.io/badge/BritishBenji-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/><a href="https://discord.gg/qBq2WSsgvv"><img alt="Discord" src="https://img.shields.io/badge/Discord Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://Ko-fi.com/britishbenji"><img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="https://twitch.tv/britishbenji"><img alt="Twitch" src="https://img.shields.io/badge/BritishBenji-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a><a href="https://twitter.com/britishbenji"><img alt="Twitter" src="https://img.shields.io/badge/BritishBenji-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><a href="https://discord.gg/qBq2WSsgvv"><img alt="Discord" src="https://img.shields.io/badge/Discord Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://Ko-fi.com/britishbenji"><img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
   </div>
 
 
