@@ -5,14 +5,14 @@
 <!--END_SECTION:waka-->
 
 
-<div style="text-align: left">
+<div style="float: left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BritishBenji&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=250301ben&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 </div>
-<div style="text-align: right">
+<div style="text-align: left">
 <h3> Who am I? What do I do?</h3>
 
 I'm mainly an amatuer python programmer, mainly working with [discord.py](https://github.com/Rapptz/discord.py) (which you'll find most, if not all, of my projects written with.)
