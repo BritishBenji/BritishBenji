@@ -1,6 +1,9 @@
 ## Hi there. I'm Benji! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 <a href="https://www.linkedin.com/in/benjamin-campbell-wilson-115a67177/">
   <img align="left" alt="BritishBenji's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
