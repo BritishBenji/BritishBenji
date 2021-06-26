@@ -23,7 +23,7 @@ No Activity tracked this Week
 [![Discord](https://img.shields.io/discord/853638415039463464.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qBq2WSsgvv)
 ![](https://visitor-badge.glitch.me/badge?page_id=britishbenji)
 
-I'm mainly an amatuer python programmer, mainly working with [discord.py](https://github.com/Rapptz/discord.py) (which you'll find most, if not all, of my projects written with.)
+I'm an amatuer python programmer, mainly working with [discord.py](https://github.com/Rapptz/discord.py) (which you'll find most, if not all, of my projects written with.)
 
 I also like to dabble with things like HTML, JavaScript, and CSS in my free time.
 
