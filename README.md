@@ -31,11 +31,12 @@ I'm an amatuer python programmer, mainly working with [discord.py](https://githu
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=britishbenji&count_private=true"><img align="right" src="https://lastfm-recently-played.vercel.app/api?user=BritishBenji">
+  
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/400912133367529472)](https://discord.com/users/400912133367529472)
+
 </div>
 
-
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 ## Social Media - Find me here! 
 <a href="https://twitch.tv/britishbenji"><img alt="Twitch" src="https://img.shields.io/badge/BritishBenji-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a><a href="https://twitter.com/britishbenji"><img alt="Twitter" src="https://img.shields.io/badge/BritishBenji-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><a href="https://discord.gg/qBq2WSsgvv"><img alt="Discord" src="https://img.shields.io/badge/Discord Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://Ko-fi.com/britishbenji"></a>
 
