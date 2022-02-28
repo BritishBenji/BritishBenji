@@ -1,10 +1,12 @@
 ## Hi there. I'm Benji! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--START_SECTION:waka-->
+
 ```text
-Python       11 hrs 23 mins  █████████████████████████   99.40 % 
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Python       30 mins         ████████████████████████░   96.57 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
+
 <!--END_SECTION:waka-->
 
 
