@@ -40,5 +40,4 @@ I'm an amatuer python programmer, mainly working with [discord.py](https://githu
 ## Social Media - Find me here! 
 <a href="https://twitch.tv/britishbenji"><img alt="Twitch" src="https://img.shields.io/badge/BritishBenji-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a><a href="https://twitter.com/britishbenji"><img alt="Twitter" src="https://img.shields.io/badge/BritishBenji-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><a href="https://discord.gg/qBq2WSsgvv"><img alt="Discord" src="https://img.shields.io/badge/Discord Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://Ko-fi.com/britishbenji"></a>
 
-If you have any questions about any of my repositories, or would like to chat about bot development as a newbie to the scene, 
-feel free to contact me on my [Discord Server](https://discord.gg/qBq2WSsgvv)
+If you have any questions about any of my repositories feel free to contact me on my [Discord Server](https://discord.gg/qBq2WSsgvv)
