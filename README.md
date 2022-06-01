@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash         1 min           ███████████████████▒░░░░░   77.75 %
-Docker       0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
