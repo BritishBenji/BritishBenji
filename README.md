@@ -14,7 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+INI          1 hr 30 mins    ██████████████▒░░░░░░░░░░   57.00 %
+Lua          38 mins         ██████░░░░░░░░░░░░░░░░░░░   24.24 %
+Python       15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Markdown     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
