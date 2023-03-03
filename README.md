@@ -21,7 +21,7 @@ No activity tracked
   
 
 
-I'm an amatuer python programmer, mainly working with [discord.py](https://github.com/Rapptz/discord.py) (which you'll find most, if not all, of my projects written with.)
+I'm an amateur python programmer, mainly working with [discord.py](https://github.com/Rapptz/discord.py) (which you'll find most, if not all, of my projects written with.)
 
 
 
