@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python           1 hr 4 mins     ████████████████████░░░░░   80.66 %
+INI              6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Batchfile        5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Text             3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
