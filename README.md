@@ -14,10 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 5 mins    █████████████████████▒░░░   84.98 %
-JSON     11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-INI      10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-VB.NET   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
