@@ -14,8 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   25 mins         ███████████████████████▓░   95.19 %
-Batchfile    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
