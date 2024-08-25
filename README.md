@@ -21,7 +21,7 @@ No activity tracked
   
 
 
-I'm an amateur python programmer, mainly working with [discord.py](https://github.com/Rapptz/discord.py) (which you'll find most, if not all, of my projects written with.)
+I'm a Digital Forensic investigator, but I enjoy dabbling in programming in my free time. I know Python, and that's unfortunately about it.
 
 
 
