@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       1 hr 39 mins    ███████████████░░░░░░░░░░   60.12 %
+HTML         39 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 %
+Other        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+INI          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
