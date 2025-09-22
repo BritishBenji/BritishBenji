@@ -2,12 +2,6 @@
 <a href="https://www.linkedin.com/in/benjamin-campbell-wilson-115a67177/">
   <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
 </a>
-<a href="https://twitter.com/BritishBenji">
-  <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
-</a>
-<a href="https://Ko-fi.com/britishbenji">
-<img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/>
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=britishbenji)
 
