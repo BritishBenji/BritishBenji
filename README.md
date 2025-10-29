@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML     1 hr 32 mins    █████████████░░░░░░░░░░░░   51.78 %
-Python   28 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-CSS      27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-JSON     17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Text     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
