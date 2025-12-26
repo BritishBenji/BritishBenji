@@ -8,9 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML     24 mins         █████████████▓░░░░░░░░░░░   55.20 %
-Python   17 mins         ██████████░░░░░░░░░░░░░░░   39.68 %
-JSON     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
