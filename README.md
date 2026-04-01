@@ -21,9 +21,6 @@ I'm a Digital Forensic investigator, but I enjoy dabbling in programming in my f
 
 <div align="center">
   <div>
-    <img width="47%"align="left" src="https://github-readme-stats.vercel.app/api?username=britishbenji&count_private=true">
-  </div>
-  <div>
     <img width="47%" align="right" src="https://lastfm-recently-played.vercel.app/api?user=BritishBenji">
   </div>
 </div>
