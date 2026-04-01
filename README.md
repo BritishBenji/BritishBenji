@@ -32,7 +32,8 @@ I'm a Digital Forensic investigator, but I enjoy dabbling in programming in my f
 </div>
 
 
-<br><br>
+<br><br><br><br>
+
 <div align="center">
 <h3> Social Media - Find me here!</h3> 
 <a href="https://twitch.tv/britishbenji"><img alt="Twitch" src="https://img.shields.io/badge/BritishBenji-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a><a href="https://twitter.com/britishbenji"><img alt="Twitter" src="https://img.shields.io/badge/BritishBenji-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><a href="https://discord.gg/qBq2WSsgvv"><img alt="Discord" src="https://img.shields.io/badge/Discord Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://Ko-fi.com/britishbenji"></a>
