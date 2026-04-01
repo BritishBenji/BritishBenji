@@ -1,41 +1,50 @@
-# Hi there. I'm Benji!
-<a href="https://www.linkedin.com/in/benjamin-campbell-wilson-115a67177/">
-  <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
-</a>
+<div align="center">
+  <h1>Hi there, I'm Benji! 👋</h1>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/benjamin-campbell-wilson-115a67177/">
+      <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+    </a>
+  </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=britishbenji)
+  <hr />
 
-<!--START_SECTION:waka-->
+  <table border="0">
+    <tr>
+      <td width="60%" align="left" valign="top">
+        <h3>🔍 About Me</h3>
+        <p>I'm a Digital Forensic Investigator who enjoys dabbling in programming in my free time. The only language I know is Python, and sometimes I like to think I'm good at it!</p>
+        <p>Need to contact me? You can find me using my GitHub username on most platforms!</p>
+      </td>
+      <td width="40%" align="center" valign="top">
+        <h3>📊 Activity</h3>
+        <!--START_SECTION:waka-->
 
 ```txt
 Python   20 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
+  </table>
+
+  <hr />
+
+  <h3>🎮 Status</h3>
+  <a href="https://discord.com/users/400912133367529472">
+    <img src="https://lanyard-profile-readme.vercel.app/api/400912133367529472" alt="Discord Presence" />
+  </a>
+
+  <br><br>
+
+
+  <p><b>Recently Played 🎵</b></p>
+  <img src="https://lastfm-recently-played.vercel.app/api?user=BritishBenji" alt="Last.fm" />
+
+
+  <hr />
   
-
-
-I'm a Digital Forensic investigator, but I enjoy dabbling in programming in my free time. I know Python, and that's unfortunately about it.
-
-
-
-<div align="center">
-  <div>
-    <img width="47%" align="right" src="https://lastfm-recently-played.vercel.app/api?user=BritishBenji">
-  </div>
+  <p><i>"I do very little outside of work, random code projects, gaming, and Torn"</i></p>
+          <a href="https://www.torn.com/2257611">
+          <img src="https://www.torn.com/sigs/19_2257611.png" alt="Torn Signature" />
+        </a>
 </div>
-<br><br><br>
-<div align="left">
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/400912133367529472)](https://discord.com/users/400912133367529472)
-
-</div>
-
-
-<br><br><br><br>
-
-<div align="center">
-<h3> Social Media - Find me here!</h3> 
-<a href="https://twitch.tv/britishbenji"><img alt="Twitch" src="https://img.shields.io/badge/BritishBenji-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a><a href="https://twitter.com/britishbenji"><img alt="Twitter" src="https://img.shields.io/badge/BritishBenji-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><a href="https://discord.gg/qBq2WSsgvv"><img alt="Discord" src="https://img.shields.io/badge/Discord Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://Ko-fi.com/britishbenji"></a>
-
-If you have any questions about any of my repositories feel free to contact me on my [Discord Server](https://discord.gg/qBq2WSsgvv)
